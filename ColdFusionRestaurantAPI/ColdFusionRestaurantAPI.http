@@ -1,0 +1,6 @@
+@ColdFusionRestaurantAPI_HostAddress = http://localhost:5223
+
+GET {{ColdFusionRestaurantAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
